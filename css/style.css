@@ -5,5 +5,10 @@ h2 {
     margin-left: 10px;
     margin-right: 10px;
     background-color: skyblue;
-    color: #f0f0f0;
+    color: #fff;
+    font-style: normal;
+}
+
+.container li {
+    
 }
